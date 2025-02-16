@@ -24,4 +24,4 @@ Thanks for visiting by. This is an Info about myself
   - [Introduction to Tableau](https://upgrad.certificate.givemycertificate.com/c/ecafb129-48d6-4ef8-91b7-41d8550d5327)
   - [Programming with Python](https://upgrad.certificate.givemycertificate.com/c/9e37581f-90d9-40d7-98b6-c4c8255197b7)
 
-Feel free to reach out me on on LinkedIn
+Feel free to reach out me on LinkedIn
