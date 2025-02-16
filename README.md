@@ -8,10 +8,10 @@ Thanks for visiting by. This is an Info about myself
 - I'm looking to collaborate and create good content that we can share with the community
 - You can find various data engineering projects on my profile
 - I am currenly learning:
-	- Exporing Modern Data Stack (Python, Databricks, Snowflake)
+	- Exploring Modern Data Stack (Python, Databricks, Snowflake)
 	- Azure Cloud
-	- How to architectect better data system
- 	- Exporing various different domains
+	- How to architect better data system
+ 	- Exploring different domains
 - Here's how you can reach me: [LinkedIn](www.linkedin.com/in/aditya-bhutada94)
 - Here are my Open Source contributions so far:
 	- [Netflix Tiles End-To-End Data Engineering Project using Azure synapse](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Netflix_titles)
@@ -24,4 +24,4 @@ Thanks for visiting by. This is an Info about myself
   - [Introduction to Tableau](https://upgrad.certificate.givemycertificate.com/c/ecafb129-48d6-4ef8-91b7-41d8550d5327)
   - [Programming with Python](https://upgrad.certificate.givemycertificate.com/c/9e37581f-90d9-40d7-98b6-c4c8255197b7)
 
-If you want to talk to me or want to discuess something then feel free to ping on LinkedIn.
+Feel free to reach out me on on LinkedIn
