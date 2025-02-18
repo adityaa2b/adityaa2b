@@ -16,6 +16,7 @@ Thanks for visiting by. This is an Info about myself
 - Here are my Open Source contributions so far:
 	- [Netflix Tiles End-To-End Data Engineering Project using Azure synapse](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Netflix_titles)
  	- [Python projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Python)
+  	- [Tableau Projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/blob/main/Hands-on%20projects/Tableau/Readme.md) 
 - My Certifications and Courses
 	- [Databricks certified data engineer](https://credentials.databricks.com/acf2a8ce-6137-473b-8a22-b0f4523dd72c#acc.i39lY4ay)
  	- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/98f8e18b-30f0-4196-955d-187abca952c9)
