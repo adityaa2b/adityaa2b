@@ -5,7 +5,7 @@ Thanks for visiting by. This is an Info about myself
 - I’m currently working as a data engineer with 8 years of experience working in Banking and insurance domain
 - I'm building my github repository to showcase my learning and help others who are looking for same
 - I'm always open for freelancing stuff and contract based opportunitites to implement my learning on larger scale and in different domains
-- I'm looking to collaborate and create good content that we can share with the community
+- I'm looking to collaborate and create good content that I can share with the community
 - You can find various data engineering projects on my profile
 - I am currenly learning:
 	- Exploring Modern Data Stack (Python, Databricks, Snowflake)
@@ -13,7 +13,7 @@ Thanks for visiting by. This is an Info about myself
 	- How to architect better data system
  	- Exploring different domains
 - Here's how you can reach me: [LinkedIn](www.linkedin.com/in/aditya-bhutada94)
-- Here are my Open Source contributions so far:
+- Here are my some of the open source projects so far:
 	- [Netflix Tiles End-To-End Data Engineering Project using Azure synapse](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Netflix_titles)
  	- [Aribnb End-To-End Data Engineering Project using Azure Databricks](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Airbnb)
  	- [Python projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Python)
