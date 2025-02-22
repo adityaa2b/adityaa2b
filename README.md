@@ -15,7 +15,7 @@ Thanks for visiting by. This is an Info about myself
 - Here's how you can reach me: [LinkedIn](www.linkedin.com/in/aditya-bhutada94)
 - Here are my some of the open source projects so far:
 	- [Netflix Tiles End-To-End Data Engineering Project using Azure synapse](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Netflix_titles)
- 	- [Aribnb End-To-End Data Engineering Project using Azure Databricks](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Airbnb)
+ 	- [Airbnb End-To-End Data Engineering Project using Azure Databricks](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Airbnb)
  	- [Python projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Python)
   	- [Tableau Projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Tableau)
   	- [Power-BI Projects](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Hands-on%20projects/Power-BI)
