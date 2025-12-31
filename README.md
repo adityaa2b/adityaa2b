@@ -30,5 +30,6 @@ Thanks for visiting by. This is an Info about myself
   	- [Interview questions](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Interview%20Questions)
   	- [Python Videos](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Python/Video)
   	- Individual folders for each technology consiting of there material
+  	- [Learning Series](https://github.com/adityaa2b/Data-ebook)
 
 Feel free to reach out me on LinkedIn
