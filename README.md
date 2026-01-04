@@ -1,4 +1,4 @@
-# AdityaBhutada
+# Aditya Bhutada
 Thanks for visiting by. This is an Info about myself
 
 - My pronouns are: He/His/Him
@@ -29,7 +29,7 @@ Thanks for visiting by. This is an Info about myself
 - Here is some of the material that I have uploaded:
   	- [Interview questions](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Interview%20Questions)
   	- [Python Videos](https://github.com/adityaa2b/Data-Engineer-learning-guide/tree/main/Python/Video)
-  	- Individual folders for each technology consiting of there material
+  	- Individual folders for each technology consisting of there material
   	- [Learning Series](https://github.com/adityaa2b/Data-ebook)
 
-Feel free to reach out me on LinkedIn
+Feel free to reach out me on [LinkedIn](www.linkedin.com/in/aditya-bhutada94)
